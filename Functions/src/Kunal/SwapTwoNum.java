@@ -22,6 +22,7 @@ public class SwapTwoNum {
 //        System.out.println(a + " " + b); // this will swap ofc
     }
 }
+//
 
 
 
