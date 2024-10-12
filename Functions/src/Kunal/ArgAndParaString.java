@@ -12,6 +12,5 @@ public class ArgAndParaString {
     static String Greet(String name) {
         return "Hello " + name;
     }
-
-
 }
+//sgvd
